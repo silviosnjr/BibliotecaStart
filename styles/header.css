@@ -11,6 +11,7 @@
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .container{
