@@ -3,6 +3,8 @@
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --amarelo: #FECD2F;
+    --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
 }
 
 body{
