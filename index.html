@@ -101,6 +101,55 @@
         </div>
     </section>
 
+    <section class="carrossel">
+        <h2 class="carrossel__titulo">Os mais emprestados</h2>
+        <!-- Slider main container -->
+        <div class="swiper">
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+                
+            <!-- Slides -->
+                <div class="swiper-slide"><img src="img/o_seminarista.svg" alt="Livro: O seminarista"></div>
+                <div class="swiper-slide"><img src="img/dom_casmurro.svg" alt="Livro: Dom Casmurro."></div>
+                <div class="swiper-slide"><img src="img/quarto_de_despejo.svg" alt="Livro: Rei da vela"></div>
+                <div class="swiper-slide"><img src="img/o_rei_da_vela.svg" alt="Livro: Helena"></div>
+                <div class="swiper-slide"><img src="img/helena.svg" alt="Livro: O Pica pau amarelo"></div>
+                <div class="swiper-slide"><img src="img/chove_sobre_minha_infancia.svg" alt="Livro: Chove sobre minha infância"></div>
+            </div>
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div> 
+        </div>
+
+        <div class="card">
+            <!-- 1º linha -->
+            <div class="card__descrição">
+                <!-- 1º coluna -->
+                <div class="descrição">
+                    <h3 class="descrição__titulo">Autora do mês</h3>
+                    <h2 class="descrição__titulo-livro">Clarisse Linspector</h2>
+                    <p class="descrição__texto">Uma das mais importantes escritora brasileira do século XX, nascida na Ucrânia.</p>
+                </div>
+                <!-- 2º coluna -->
+                <img src="img/clarisse.svg" class="descrição__imagem">
+            </div>
+            <!-- 2º linha -->
+            <div class="card__botões">
+                <!-- 1º coluna -->
+                <ul class="botões">
+                    <li class="botões__item"><img src="img/Favoritos.svg" alt="Favoritar Livro"></li>
+                    <li class="botões__item"><img src="img/Emprestimos.svg" alt="Adicoinar ao meus empréstimos"></li>
+                </ul>
+                <!-- 2º coluna -->
+                <a href="#" class="botões__ancora">Saiba mais</a>
+            </div>
+        </div>
+    </section>
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script>
         const swiper = new Swiper('.swiper', {
