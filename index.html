@@ -8,6 +8,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -48,6 +52,33 @@
         <p class="banner__text">Encontre em nossa estante o que precisa para seu desenvolvimento!</p>
         <input type="search" class="banner__pesquisa" placeholder="Qual será a sua próxima leitura?">
     </section>
+    <section class="carrossel">
+        <h2 class="carrossel__titulo">Novos lançamentos</h2>
+        <!-- Slider main container -->
+        <div class="swiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+            <!-- Slides -->
+                <div class="swiper-slide"><img src="img/mulheres_que_correm_como_os_lobos.svg" alt="Livro: Mulheres que correm com os lobos"></div>
+                <div class="swiper-slide"><img src="img/torto_arado.svg" alt="Livro: Torto Arado."></div>
+                <div class="swiper-slide"><img src="img/pequeno_mural_antirracista.svg" alt="Livro: Pequeno manuel antirracista"></div>
+                <div class="swiper-slide"><img src="img/o_alquimista.svg" alt="Livro: O alquimista"></div>
+                <div class="swiper-slide"><img src="img/o_pica_pau_amarelo.svg" alt="Livro: O Pica pau amarelo"></div>
+                <div class="swiper-slide"><img src="img/o_seminarista.svg" alt="Livro: O o_seminarista"></div>
+            </div>
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+        
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        
+            <!-- If we need scrollbar -->
+            <div class="swiper-scrollbar"></div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 </body>
 <!-- acima desta tag existe mais código HTML -->
 </html>
