@@ -5,10 +5,7 @@
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
-    padding-top: 15px;
-    padding-right: 10px;
-    padding-bottom: 25px;
-    padding-left: 35px;
+    padding: 1em 0 0.5em 0;
 }
 
 .swiper-slide img{
@@ -22,4 +19,56 @@
 .swiper-pagination{
     position: initial;
     margin: 0.5em 0;
+}
+
+.card__descrição{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
+.card__botões{
+    display: flex;
+    justify-content: space-between;
+}
+
+.botões{
+    display: flex;
+}
+
+.card{
+    border-radius: 10px;
+    background: var(--branco);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: 1em;
+    padding: 1em;
+}
+
+.descrição__titulo{
+    color: var(--azul-claro);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.descrição__titulo-livro{
+    color: var(--azul-escuro);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.descrição__texto{
+    font-size: 16px;
+}
+
+.botões__item{
+    margin: 0.5em;
+}
+
+.botões__ancora{
+    background-color: var(--amarelo);
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
 }
