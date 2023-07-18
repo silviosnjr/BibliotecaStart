@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="35px" height="35px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 245 245"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil6 {fill:none}
+    .fil0 {fill:#96989A}
+    .fil2 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil3 {fill:#E6E7E8;fill-rule:nonzero}
+    .fil4 {fill:#D2D3D5;fill-rule:nonzero}
+    .fil5 {fill:#E6E8EB;fill-rule:nonzero}
+    .fil1 {fill:#F6543B;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M0 0l245 0 0 245 -245 0 0 -245z"/>
+   </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <circle class="fil0" cx="123" cy="123" r="123"/>
+    <path class="fil1" d="M114 113l26 0c6,0 11,-1 14,-5 4,-3 6,-8 6,-13l0 -8c0,-5 -2,-8 -6,-11 -2,-2 -4,-3 -7,-3 3,-3 6,-6 8,-10 2,-7 2,-14 -2,-20 12,2 21,5 29,11 10,7 15,17 15,29l0 12c0,6 -1,11 -4,16 -2,3 -5,6 -8,9l-33 21c0,0 -1,0 -1,0l-39 0c7,-8 8,-19 2,-28z"/>
+    <path class="fil2" d="M102 113l38 0c6,0 11,-1 14,-5 4,-3 6,-8 6,-13l0 -8c0,-5 -2,-8 -6,-11 -2,-2 -4,-3 -7,-3 3,-3 6,-6 8,-10 2,-7 2,-14 -2,-20 12,2 21,5 29,11 10,7 15,17 15,29l0 12c0,6 -1,11 -4,16 -2,3 -5,6 -8,9l-33 21c0,0 -1,0 -1,0l-50 0c-13,0 -14,-27 1,-28z"/>
+    <path class="fil3" d="M46 72l0 -29 94 0c5,0 9,0 13,0 13,1 10,32 -6,30 -2,-1 -5,-1 -8,-1l-56 0 -16 19 -21 -19z"/>
+    <path class="fil2" d="M72 213c-7,0 -14,-2 -19,-6 -5,-5 -7,-10 -7,-17l0 -51c11,10 27,11 37,2l0 43 54 0c-7,8 -8,20 -1,29l-64 0z"/>
+    <path class="fil4" d="M121 184l26 0c8,0 14,-2 18,-4 5,-3 7,-7 7,-12l0 -11c0,-5 -2,-9 -6,-12 -3,-2 -8,-4 -14,-4 -7,-16 19,-24 28,-19l0 1c9,2 16,7 21,13 6,6 8,13 8,21l0 12c0,14 -5,24 -16,32 -11,8 -25,12 -43,12l-27 0c3,-3 4,-7 5,-11 0,-7 -2,-13 -7,-18z"/>
+    <path class="fil5" d="M46 139l0 -68c7,7 18,9 28,6 4,-1 7,-3 9,-5 1,0 0,0 0,0l0 0 0 41 24 0c6,9 5,20 -2,28l-22 0c-10,9 -26,8 -37,-2z"/>
+   </g>
+  </g>
+  <polygon class="fil6" points="0,0 245,0 245,245 0,245 "/>
+ </g>
+</svg>
